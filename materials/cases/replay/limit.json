@@ -1,0 +1,215 @@
+{
+  "request": "持续读取到上限",
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "",
+      "tool_calls": [
+        {
+          "function": {
+            "name": "read_diagram",
+            "arguments": {
+              "name": "practice.drawio"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "tool_calls": [
+        {
+          "function": {
+            "name": "read_diagram",
+            "arguments": {
+              "name": "practice.drawio"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "tool_calls": [
+        {
+          "function": {
+            "name": "read_diagram",
+            "arguments": {
+              "name": "practice.drawio"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "tool_calls": [
+        {
+          "function": {
+            "name": "read_diagram",
+            "arguments": {
+              "name": "practice.drawio"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "tool_calls": [
+        {
+          "function": {
+            "name": "read_diagram",
+            "arguments": {
+              "name": "practice.drawio"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "tool_calls": [
+        {
+          "function": {
+            "name": "read_diagram",
+            "arguments": {
+              "name": "practice.drawio"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "tool_calls": [
+        {
+          "function": {
+            "name": "read_diagram",
+            "arguments": {
+              "name": "practice.drawio"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "tool_calls": [
+        {
+          "function": {
+            "name": "read_diagram",
+            "arguments": {
+              "name": "practice.drawio"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "tool_calls": [
+        {
+          "function": {
+            "name": "read_diagram",
+            "arguments": {
+              "name": "practice.drawio"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "tool_calls": [
+        {
+          "function": {
+            "name": "read_diagram",
+            "arguments": {
+              "name": "practice.drawio"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "tool_calls": [
+        {
+          "function": {
+            "name": "read_diagram",
+            "arguments": {
+              "name": "practice.drawio"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "tool_calls": [
+        {
+          "function": {
+            "name": "read_diagram",
+            "arguments": {
+              "name": "practice.drawio"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "tool_calls": [
+        {
+          "function": {
+            "name": "read_diagram",
+            "arguments": {
+              "name": "practice.drawio"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "tool_calls": [
+        {
+          "function": {
+            "name": "read_diagram",
+            "arguments": {
+              "name": "practice.drawio"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "tool_calls": [
+        {
+          "function": {
+            "name": "read_diagram",
+            "arguments": {
+              "name": "practice.drawio"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

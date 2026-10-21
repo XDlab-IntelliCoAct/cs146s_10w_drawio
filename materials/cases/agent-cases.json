@@ -1,0 +1,32 @@
+[
+  {
+    "id": "A1",
+    "request": "解释节点和连接分别表达什么，不需要打开文件。",
+    "intent": "直接回答"
+  },
+  {
+    "id": "A2",
+    "request": "practice.drawio 的 page-a 有哪些步骤？请先读取。",
+    "intent": "读取后查询"
+  },
+  {
+    "id": "A3",
+    "request": "将 practice.drawio 的 page-a/n2 改名为审核申请，复查并说明实际变化。",
+    "intent": "单步修改复查"
+  },
+  {
+    "id": "A4",
+    "request": "在 practice.drawio 的 page-a 将 n2 改名为复核；增加 e-return 从 n3 回到 n2；检查并比较修改。",
+    "intent": "多步修改"
+  },
+  {
+    "id": "A5",
+    "request": "把 practice.drawio 中那个步骤改得更合适。",
+    "intent": "信息不足先澄清"
+  },
+  {
+    "id": "A6",
+    "request": "请读取 missing.drawio 并告诉我它的检查结果。",
+    "intent": "工具失败"
+  }
+]

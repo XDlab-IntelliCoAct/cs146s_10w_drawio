@@ -1,0 +1,11 @@
+*.md text eol=lf
+.gitignore text eol=lf
+.gitattributes text eol=lf
+*.py text eol=lf
+*.json text eol=lf
+*.yml text eol=lf
+*.mjs text eol=lf
+*.drawio text eol=lf
+*.txt text eol=lf
+*.pptx binary
+*.pdf binary

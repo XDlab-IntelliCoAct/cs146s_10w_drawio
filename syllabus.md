@@ -1,19 +1,24 @@
-# 五周课程安排
+# 十周学习安排
 
-课程围绕 AI 原生软件开发中的 Coding Agent、项目上下文、工具使用和软件交付展开。学生按[五周学习计划](./five_week_plan.md)完成学习与 HW1–HW8。期末项目取消。
+课程围绕图表交付前的检查功能展开。你将从模型实验开始，学习怎样使用 Agent 开发软件，随后完成测试、代码审查、运行维护和产品交付。下表列出每周的学习页与作业；从第三周开始，各周都在同一个个人产品仓库中继续开发。
 
-| 周次 | 学习主题 | 主要材料 | 作业 |
-|---|---|---|---|
-| 第 1 周 | LLM、提示、Coding Agent、Tool Calling 与 MCP | [LLM 与提示课件](./slides/Fall2025/week01-0922-intro-to-llms.pptx)、[Coding Agent 与 MCP 课件](./slides/Fall2025/week02-0929-building-a-coding-agent.pptx)、[完整材料目录](./slides/README.md) | [HW1](./week01/assignment.md) · [HW2](./week02/assignment.md) |
-| 第 2 周 | AI IDE、项目上下文、PRD 与 Agent 协作 | [AI IDE 课件](./slides/Fall2025/week03-1006-ai-ide-setup.pptx)、[Agent Manager 课件](./slides/Fall2025/week04-1013-agent-manager.pptx) | [HW3](./week03/assignment.md) · [HW4](./week04/assignment.md) |
-| 第 3 周 | 现代终端、Agent 工作流、AI 测试与软件安全 | [AI 开发者产品课件](./slides/Fall2025/week05-1020-ai-developer-product.pptx)、[AI QA/SAST/DAST 课件](./slides/Fall2025/week06-1027-ai-qa-sast-dast.pptx) | [HW5](./week05/assignment.md) · [HW6](./week06/assignment.md) |
-| 第 4 周 | AI Code Review、自动化 UI 与全栈应用 | [AI Code Review 课件](./slides/Fall2025/week07-1103-ai-code-review.pptx)、[端到端应用课件](./slides/Fall2025/week08-1110-end-to-end-app.pptx) | [HW7](./week07/assignment.md) · [HW8 开始](./week08/assignment.md) |
-| 第 5 周 | 部署后 Agent、可观测性、故障响应与软件工程未来 | [事件响应与 DevOps 课件](./slides/Fall2025/week09-1117-incident-response-devops.pptx)、[课件目录](./slides/README.md) | 完成 HW8 并统一验收；不增加新作业或期末项目 |
+| 周次 | 学习主题与入口 | 实践 |
+|---|---|---|
+| W1 | [模型输出、规格与评估](weeks/week01.md) | [HW1](assignments/HW1.md) |
+| W2 | [工具调用、控制循环与 MCP](weeks/week02.md) | [HW2](assignments/HW2.md) |
+| W3 | [真实项目阅读与首次交付](weeks/week03.md) | [HW3](assignments/HW3.md) |
+| W4 | [模块接口与 Agent 任务交接](weeks/week04.md) | [HW4](assignments/HW4.md) |
+| W5 | [终端、批处理与持续集成](weeks/week05.md) | [HW5](assignments/HW5.md) |
+| W6 | [测试设计、性质与输入安全](weeks/week06.md) | [HW6](assignments/HW6.md) |
+| W7 | [多轮审查与交付判断](weeks/week07.md) | [HW7](assignments/HW7.md) |
+| W8 | [产品界面、画布与异步工作流](weeks/week08.md) | [HW8](assignments/HW8.md) |
+| W9 | [运行观测、恢复与性能](weeks/week09.md) | 运行已有产品，完成故障恢复和性能实验，提交本周 PR |
+| W10 | [反馈迭代与交付](weeks/week10.md) | 根据交叉试用反馈完成修改，提交最终 PR 并演示产品 |
 
-## 学习与提交
+## 学习方式
 
-- 按五周计划查阅每周目标、材料、英文 Lecture 和作业安排。
-- HW1–HW8 的任务与提交要求以各自作业说明为准。
-- 对模型输出进行验证。生成结果、通过测试和系统正确是不同层次的证据。
-- 在报告中记录使用的模型、工具、关键提示、人工修改和验证过程。
-- 不提交 API 密钥、个人数据、模型权重或他人未公开的答案。
+每周先阅读学习页，完成引导示例，再按作业要求实现并验证。W1、W2 在课程仓库中进行实验；W3 起切换到个人产品 fork。两个仓库的用途和各周的准备要求见[课程学习路线](docs/learning-route.md)。
+
+课件与阅读资料列在[材料目录](materials/README.md)中。[每周讲座视频](materials/videos.md)按主题安排，原速总时长约为 83–114 分钟，推荐理由和观看重点也列在各周学习页。需要查询字段或功能行为时，按[共同约定](docs/contracts.md)开头的表格查阅对应章节。
+
+八次作业的内容与提交要求见[作业索引](assignments/README.md)。W9、W10 继续使用 HW8 完成的产品，分别提交运行实验记录和最终交付材料。

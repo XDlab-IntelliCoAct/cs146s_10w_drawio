@@ -1,0 +1,62 @@
+[
+  {
+    "file": "week01-0922-intro-to-llms.pptx",
+    "sha256": "d36916560f6395825e0d1c30fee14e184e40ad6fa8eb5472a305d30f21c29f69"
+  },
+  {
+    "file": "week01-0926-effective-prompting.pptx",
+    "sha256": "ec575e9662b8e5aa322fb6b27813436dde41c2fd0ba5d845b6af237bc3ba6444"
+  },
+  {
+    "file": "week02-0929-building-a-coding-agent.pptx",
+    "sha256": "7a5e722dcab0c61b7eb318d4965aafbc078da9ded9b17113d7cfe9553955dc0f"
+  },
+  {
+    "file": "week02-1003-custom-mcp-server.pptx",
+    "sha256": "5419b308508e9b490c8c09ce4135421a4c409406315e7bf23120c8334ad540c3"
+  },
+  {
+    "file": "week03-1006-ai-ide-setup.pptx",
+    "sha256": "ad6f7e2019ee710a56173f441ce2c365b40c692b21251f4744a9f3baec5211b0"
+  },
+  {
+    "file": "week03-1010-silas-alberti.pptx",
+    "sha256": "c28f6c8e056621bdb5b90d8dbc34e5008c66f45bf9172300e7a4e7603a47a14c"
+  },
+  {
+    "file": "week04-1013-agent-manager.pptx",
+    "sha256": "c7e76b1b8398ef8ec4b7793b0763cb2d7042389f7bc39ae19d24c2e673120f43"
+  },
+  {
+    "file": "week04-1017-boris-cherny.pptx",
+    "sha256": "cb48ccf74c53547b8be8920f0c44bdf05019086b46495faa02a93b45de800429"
+  },
+  {
+    "file": "week05-1020-ai-developer-product.pptx",
+    "sha256": "728fb811d0828a04ba5757dc0383d79ab63a1243cd7a7dde092071ae08c2f394"
+  },
+  {
+    "file": "week06-1027-ai-qa-sast-dast.pptx",
+    "sha256": "7f536f71cffc9c25103a9fd3bc9ad1b93920012a55384e5749a7786c97d1ef24"
+  },
+  {
+    "file": "week07-1103-ai-code-review.pptx",
+    "sha256": "6595d3d6e3df1bf0eae85622404a48209e7d4ffadf39786d4f094b362b886732"
+  },
+  {
+    "file": "week07-1107-tomas-reimers-slides.pdf",
+    "sha256": "f57ef3b615bf59412f155ec8eac7ed1cfb8ac734e0885403e3b0c55f686ae5a9"
+  },
+  {
+    "file": "week08-1110-end-to-end-app.pptx",
+    "sha256": "fdd0ab7d0c5ac4136c163e7a6e11950907c1f53d2523b3e89e6f202a6e28454c"
+  },
+  {
+    "file": "week09-1117-incident-response-devops.pptx",
+    "sha256": "8de3e8119e6aaf238e83ff3f2c9433f3d44ea971851b988dce17867b0c4d0bab"
+  },
+  {
+    "file": "week09-1121-resolve-guest-lecture-slides.pdf",
+    "sha256": "28686f9862e472fddf42c684eb59a3e0d6cff9b291866f6d1ec33289a0c88e09"
+  }
+]

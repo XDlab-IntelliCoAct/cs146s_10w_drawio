@@ -1,0 +1,1 @@
+<!DOCTYPE mxfile [<!ENTITY test SYSTEM "https://example.invalid/course">]><mxfile>&test;</mxfile>

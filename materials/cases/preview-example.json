@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "receipt",
+      "label": "打印店收件"
+    },
+    {
+      "id": "notice",
+      "label": "通知取件"
+    }
+  ],
+  "edges": [
+    {
+      "source": "receipt",
+      "target": "notice",
+      "label": "打印完成"
+    }
+  ],
+  "questions": []
+}

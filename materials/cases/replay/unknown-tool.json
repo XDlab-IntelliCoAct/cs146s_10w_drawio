@@ -1,0 +1,23 @@
+{
+  "request": "读取练习文件",
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "",
+      "tool_calls": [
+        {
+          "function": {
+            "name": "shell",
+            "arguments": {
+              "command": "echo unsafe"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "该工具没有注册。"
+    }
+  ]
+}

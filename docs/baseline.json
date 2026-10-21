@@ -1,0 +1,19 @@
+{
+  "repository": "https://github.com/NewPhrexian/next-ai-draw-io_cs146s",
+  "commit": "6cc5cd7925777a141e4b278d0017dfbcc8cdfef2",
+  "verified_on": "2026-10-21",
+  "node_major": 24,
+  "source_files": [
+    "package.json",
+    "contexts/diagram-context.tsx",
+    "lib/diagram-pages.ts",
+    "lib/drawio/editor-bridge.ts",
+    "components/chat/chat-engine.tsx",
+    "components/chat/chat-panel.tsx",
+    "stores/canvas-store.ts",
+    "tests/e2e/lib/fixtures.ts",
+    "packages/mcp-server/src/load-diagram.ts",
+    "lib/diagram-diff.ts"
+  ],
+  "source_in_course": false
+}

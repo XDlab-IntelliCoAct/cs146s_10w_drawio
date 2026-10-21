@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "input": {
+    "name": "invalid-example.drawio",
+    "fingerprint": "cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+  },
+  "scope": {
+    "kind": "all"
+  },
+  "profile": {
+    "id": "flowchart",
+    "rules": {
+      "missing-label": "warning",
+      "isolated-step": "warning",
+      "missing-endpoint": "warning",
+      "dangling-endpoint": "error"
+    },
+    "configDigest": "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb"
+  },
+  "status": "invalid",
+  "issues": [],
+  "summary": {
+    "pages": null,
+    "cells": null,
+    "errors": null,
+    "warnings": null
+  },
+  "error": {
+    "code": "invalid_xml",
+    "message": "XML 未闭合，无法完成检查"
+  },
+  "generatedAt": "2026-10-21T00:00:00Z"
+}

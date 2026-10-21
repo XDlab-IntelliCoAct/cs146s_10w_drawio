@@ -1,0 +1,8 @@
+{
+  "request": "读取文件",
+  "messages": [
+    {
+      "raise": "synthetic model service unavailable"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["nodes", "edges", "questions"],
+  "properties": {
+    "nodes": {"type": "array", "items": {"type": "object", "additionalProperties": false, "required": ["id", "label"], "properties": {"id": {"type": "string", "minLength": 1}, "label": {"type": "string"}}}},
+    "edges": {"type": "array", "items": {"type": "object", "additionalProperties": false, "required": ["source", "target", "label"], "properties": {"source": {"type": "string"}, "target": {"type": "string"}, "label": {"type": "string"}}}},
+    "questions": {"type": "array", "items": {"type": "string"}}
+  }
+}

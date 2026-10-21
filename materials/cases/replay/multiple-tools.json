@@ -1,0 +1,31 @@
+{
+  "request": "读取并检查 practice.drawio",
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "",
+      "tool_calls": [
+        {
+          "function": {
+            "name": "read_diagram",
+            "arguments": {
+              "name": "practice.drawio"
+            }
+          }
+        },
+        {
+          "function": {
+            "name": "inspect_diagram",
+            "arguments": {
+              "name": "practice.drawio"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "请根据本次工具结果核对结论。"
+    }
+  ]
+}

@@ -1,4 +1,11 @@
 # Python
+.local/
+.runtime/
+node_modules/
+.next/
+dist/
+playwright-report/
+test-results/
 __pycache__/
 *.py[cod]
 .venv/

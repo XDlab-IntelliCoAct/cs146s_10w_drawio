@@ -1,0 +1,23 @@
+{
+  "request": "读取练习文件",
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "",
+      "tool_calls": [
+        {
+          "function": {
+            "name": "read_diagram",
+            "arguments": {
+              "name": 42
+            }
+          }
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "参数无效，请提供文件名。"
+    }
+  ]
+}

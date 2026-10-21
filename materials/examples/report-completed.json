@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "input": {
+    "name": "example.drawio",
+    "fingerprint": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+  },
+  "scope": {
+    "kind": "all"
+  },
+  "profile": {
+    "id": "flowchart",
+    "rules": {
+      "missing-label": "warning",
+      "isolated-step": "warning",
+      "missing-endpoint": "warning",
+      "dangling-endpoint": "error"
+    },
+    "configDigest": "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb"
+  },
+  "status": "completed",
+  "issues": [
+    {
+      "ruleId": "missing-label",
+      "severity": "warning",
+      "pageId": "example-page",
+      "cellId": "example-step",
+      "message": "流程步骤缺少可读名称"
+    }
+  ],
+  "summary": {
+    "pages": 1,
+    "cells": 5,
+    "errors": 0,
+    "warnings": 1
+  },
+  "error": null,
+  "generatedAt": "2026-10-21T00:00:00Z"
+}
